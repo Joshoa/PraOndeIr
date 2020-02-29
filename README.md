@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://drive.google.com/uc?export=12oj3HJNdPQ80IXzSQuCH7u-bBa8km9FS"><img src="https://drive.google.com/uc?export=view&id=12oj3HJNdPQ80IXzSQuCH7u-bBa8km9FS" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="MrMjopCode" /></a>
+href="https://github.com/Joshoa/PraOndeIr/blob/master/media/launchScreen.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="PraOndeIr" /></a>
 </p>
 
 # PraOndeIr 
@@ -19,12 +19,19 @@
 
 
 ## PreViews
-<p align="center">
-<a href="https://drive.google.com/uc?export=1y6QPc919-gqUDdKZCHnFsZP2DCSKVUon"><img align="left" src="https://drive.google.com/uc?export=view&id=1y6QPc919-gqUDdKZCHnFsZP2DCSKVUon" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="LaunchScreen" /></a><a href="https://drive.google.com/uc?export=1dLKqq6uLxuTK_hIJZuxAb972uAok8Uvb"><img align="center" src="https://drive.google.com/uc?export=view&id=1dLKqq6uLxuTK_hIJZuxAb972uAok8Uvb" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="listEmpty" /></a><a href="https://drive.google.com/uc?export=1G_bwnNCNAQBrj6uiffLiqNUNDYLickJs"><img align="right" src="https://drive.google.com/uc?export=view&id=1G_bwnNCNAQBrj6uiffLiqNUNDYLickJs" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="addLocation" /></a>
-</p>
-<p align="center">
-<a href="https://drive.google.com/uc?export=1kSqv2s_jheLegNgIdYlhEoTsKpT3-Ck6"><img align="left" src="https://drive.google.com/uc?export=view&id=1kSqv2s_jheLegNgIdYlhEoTsKpT3-Ck6" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="listNotEmpty" /></a><a href="https://drive.google.com/uc?export=1JJlzXltsHVqTt2iTX6QTmCk0GKrC66vx"><img align="center" src="https://drive.google.com/uc?export=view&id=1JJlzXltsHVqTt2iTX6QTmCk0GKrC66vx" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="3dmap" /></a><a href="https://drive.google.com/uc?export=1DefHG3Q61FvuxvuvPqPZ_-_Fw1MFQHQl"><img align="right" src="https://drive.google.com/uc?export=view&id=1DefHG3Q61FvuxvuvPqPZ_-_Fw1MFQHQl" style="width: 500px; max-width: 100%; height: auto" title="PraOndeIr" alt="plotRoute" /></a>
-</p>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/launchScreen.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/launchScreen.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="LaunchScreen" alt="LaunchScreen" /></a></td>
+    <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/listEmpty.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/listEmpty.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="ListEmpty" alt="ListEmpty" /></a></td>
+    <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/addLocation.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/addLocation.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="AddLocation" alt="AddLocation" /></a></td>
+  </tr>
+  <tr>
+      <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/listNotEmpty.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/listNotEmpty.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="ListNotEmpty" alt="ListNotEmpty" /></a></td>
+      <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/map3d.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/map3d.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="3DMap" alt="3DMap" /></a></td>
+      <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/plotRoute.png"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/plotRoute.png?raw=true" style="width: 500px; max-width: 100%; height: auto" title="PlotRoute" alt="PlotRoute" /></a></td>
+    </tr>
+ </table>
 
 ## Installation
   
