@@ -16,9 +16,9 @@
 - [x] Search points of interest 
 - [x] 3D map view
 - [x] Plot routes
-- [ ] Add location extra info 
-    * Quatidade de visitas
-    * Imagens relacionadas
+- [ ] Add additional location info 
+    * Number of visits
+    * Related Images
 - [ ] Enable edit start route
 - [ ] Make Tests
 
