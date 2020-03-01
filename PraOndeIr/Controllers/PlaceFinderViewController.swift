@@ -95,11 +95,14 @@ class PlaceFinderViewController: UIViewController, UITextFieldDelegate {
                 message = errorMessage
         }
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
-        let cancelAction = UIAlertAction(title: "Cancelar", style: .cancel, handler: nil)
+        let cancelAction = UIAlertAction(title: "Não", style: .cancel, handler: nil)
         alert.addAction(cancelAction)
         if hasConfirmation {
-            let confirmAction = UIAlertAction(title: "Ok", style: .default) { (action) in
+            let confirmAction = UIAlertAction(title: "Sim", style: .default) { (action) in
                 self.delegate?.addPlace(self.place)
+                if let vc = self.presentingViewController?.children.first as? PlacesTableViewController {
+                    vc.performSegue(withIdentifier: "mapSegue", sender: self.place)
+                }
                 self.dismiss(animated: true, completion: nil)
             }
             alert.addAction(confirmAction)
