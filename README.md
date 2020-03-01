@@ -25,7 +25,7 @@
 
 
 ## PreViews
-<table>
+<table align="center">
   <tr>
   <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_01.gif"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_01.gif?raw=true" style="width: 500px; max-width: 100%; height: auto" title="PreView 01" alt="PreView 01" /></a></td>
   <td> <=> </td>
