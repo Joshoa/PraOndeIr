@@ -16,9 +16,24 @@
 - [x] Search points of interest 
 - [x] 3D map view
 - [x] Plot routes
+- [ ] Add location extra info 
+    * Quatidade de visitas
+    * Imagens relacionadas
+- [ ] Enable edit start route
+- [ ] Make Tests
+
 
 
 ## PreViews
+<table>
+  <tr>
+  <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_01.gif"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_01.gif?raw=true" style="width: 500px; max-width: 100%; height: auto" title="PreView 01" alt="PreView 01" /></a></td>
+  <td> <=> </td>
+  <td><a href="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_02.gif"><img src="https://github.com/Joshoa/PraOndeIr/blob/master/media/praondeir_02.gif?raw=true" style="width: 500px; max-width: 100%; height: auto" title="PreView 02" alt="PreView 02" /></a></td>
+  </tr>
+</table>
+
+### Screenshots
 
 <table>
   <tr>
